@@ -19,4 +19,6 @@ The radio will hide some notifications, to fix it:
 4. Ready!
 This will also avoid the groups to be hidden with the radio.
 
+<b>Not clear on how to change the styles.css?</b>
+
 That's all. Thanks for using the radio. :)
