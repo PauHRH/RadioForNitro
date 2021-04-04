@@ -24,6 +24,6 @@ You have the file if you want to replace it with this done in the folder named "
 
 That's all. Thanks for using the radio. :)
 
-Credits:
-Hartico: for the radio code.
+Credits:<br>
+Hartico: for the radio code.<br>
 Me: Changing the style.
