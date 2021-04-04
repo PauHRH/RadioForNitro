@@ -23,3 +23,7 @@ This will also avoid the groups to be hidden with the radio.
 You have the file if you want to replace it with this done in the folder named "Not clear on how to change the styles.css?"-
 
 That's all. Thanks for using the radio. :)
+
+Credits:
+Hartico: for the radio code.
+Me: Changing the style.
