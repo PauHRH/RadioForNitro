@@ -9,7 +9,7 @@ The radio is simple to install:
 2. Open the file where you have the nitro client.
 3. Copy all the code from the radio and paste it at the end of the nitro client.
 4. Enjoy!
-It comes a default radio, to change it search for "http://stream.zeno.fm/ha1xaksx0p8uv" and change it to your radio adress.
+It comes with a default radio, to change it search for "http://stream.zeno.fm/ha1xaksx0p8uv" and change it to your radio adress.
 
 # NITRO NOTIFICATIONS
 The radio will hide some notifications, to fix it:
