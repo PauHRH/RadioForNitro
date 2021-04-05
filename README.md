@@ -26,4 +26,4 @@ That's all. Thanks for using the radio. :)
 
 Credits:<br>
 Hartico: for the radio code.<br>
-Me: Changing the style.
+Me (Pau): Changing the style.
